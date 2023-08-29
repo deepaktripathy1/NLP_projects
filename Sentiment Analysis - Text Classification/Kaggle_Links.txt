@@ -1,0 +1,5 @@
+Sentiment Analysis/Text Classification:
+
+https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
+
+https://www.kaggle.com/datasets/fiodarryzhykau/employee-review
