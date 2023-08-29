@@ -1,0 +1,11 @@
+Medical NER:
+
+https://www.kaggle.com/datasets/finalepoch/medical-ner
+
+NER Modeling:
+
+https://www.kaggle.com/datasets/naseralqaydeh/named-entity-recognition-ner-corpus
+
+Resume NER:
+
+https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner
